@@ -1,0 +1,9 @@
+@media screen and (max-width:1200px) {
+    #about #img2{
+        display: none;
+    }
+
+    #about #img3{
+    display: none;
+    }
+}
